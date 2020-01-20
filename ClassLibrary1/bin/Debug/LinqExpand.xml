@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LinqExpand</name>
+    </assembly>
+    <members>
+        <member name="M:LinqExpand.OrderedEnumerableOfPropName`1.#ctor(System.Collections.Generic.IEnumerable{`0},System.String,System.Collections.IComparer,System.Boolean)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="source"></param>
+            <param name="keySelector"></param>
+            <param name="comparer"></param>
+            <param name="descending"></param>
+        </member>
+        <member name="T:System.Linq.Enumerable">
+            <summary>
+            提供了一套static用于拓展查询实现的对象方法 
+            </summary>
+        </member>
+        <member name="M:System.Linq.Enumerable.OrderBy``1(System.Collections.Generic.IEnumerable{``0},System.String)">
+            <summary>
+            根据属性名称进行降序排序
+            </summary>
+            <typeparam name="TSource"></typeparam>
+            <param name="source">需要排序的集合</param>
+            <param name="keySelector">排序依据的属性名称 推荐使用nameof(Class.Propery)</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Linq.Enumerable.OrderBy``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Collections.IComparer)">
+            <summary>
+            根据属性名称进行降序排序
+            </summary>
+            <typeparam name="TSource"></typeparam>
+            <param name="source">需要排序的集合</param>
+            <param name="keySelector">排序依据的属性名称 推荐使用nameof(Class.Propery)</param>
+            <param name="comparable">排序比较器</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Linq.Enumerable.OrderByDescending``1(System.Collections.Generic.IEnumerable{``0},System.String)">
+            <summary>
+            根据属性名称进行排序
+            </summary>
+            <typeparam name="TSource"></typeparam>
+            <param name="source">需要排序的集合</param>
+            <param name="keySelector">排序依据的属性名称 推荐使用nameof(Class.Propery)</param>
+            <returns></returns>
+        </member>
+        <member name="M:System.Linq.Enumerable.OrderByDescending``1(System.Collections.Generic.IEnumerable{``0},System.String,System.Collections.IComparer)">
+            <summary>
+            根据属性名称进行降序排序
+            </summary>
+            <typeparam name="TSource"></typeparam>
+            <param name="source">需要排序的集合</param>
+            <param name="keySelector">排序依据的属性名称 推荐使用nameof(Class.Propery)</param>
+            <param name="comparable">排序比较器</param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentException">可能在迭代过程中发生该错误</exception>
+            
+        </member>
+    </members>
+</doc>

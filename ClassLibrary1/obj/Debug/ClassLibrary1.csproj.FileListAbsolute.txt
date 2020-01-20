@@ -1,0 +1,9 @@
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\LinqExpand.dll
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\LinqExpand.pdb
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\LinqExpand.xml
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.exe
+C:\Users\haoxin\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.exe

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ConfigModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsSaveResult>true</IsSaveResult>
+  <SavePath>C:\Users\haoxin\Desktop\layout.log</SavePath>
+  <Suffix>.html</Suffix>
+  <SpaceLeng>20</SpaceLeng>
+  <OrderPropName>Count</OrderPropName>
+</ConfigModel>
